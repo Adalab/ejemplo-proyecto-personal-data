@@ -32,3 +32,12 @@ Antes de ponernos manos a la obra es recomendable seguir los siguientes pasos:
 
 7. Comparte tu trabajo
     
+A continuación os mostramos que debe tener nuestro repositorio y como debemos trabajar en nuestro proyecto personal: 
+
+- Readme: un buen readme es clave para atraer la atención de los posibles lectores de nuestro proyecto. En este aparto haremos un pequeño resumen de nuestro proyecto. [Aquí]() tenéis un ejemplo de readme. 
+
+- Carpeta con los Notebooks
+
+- Carpeta con los datos 
+
+- Carpeta con las imagenes
