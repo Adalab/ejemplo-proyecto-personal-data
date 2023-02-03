@@ -32,11 +32,13 @@ Antes de ponernos manos a la obra es recomendable seguir los siguientes pasos:
 
 7. Comparte tu trabajo
     
-A continuación os mostramos que debe tener nuestro repositorio y como debemos trabajar en nuestro proyecto personal: 
+A continuación os mostramos que debe tener nuestro repositorio y como debemos trabajar en nuestro proyecto personal. 
 
-- Readme: un buen readme es clave para atraer la atención de los posibles lectores de nuestro proyecto. En este aparto haremos un pequeño resumen de nuestro proyecto. [Aquí]() tenéis un ejemplo de readme. 
+Para tener un buen seguimiento de nuestro proyecto, es recomendable que os creeis un tablero Kanban en GitHub, de la misma forma que trabajamos durante los proyectos durante el bootcamp.
 
-- Carpeta con los Notebooks
+- Readme: un buen readme es clave para atraer la atención de los posibles lectores de nuestro proyecto. En este aparto haremos un pequeño resumen de nuestro proyecto. [Aquí](https://github.com/Adalab/ejemplo-proyecto-personal-data/blob/main/documentos_adicionales/como_hacer_readme.md) tenéis un ejemplo de readme. 
+
+- Carpeta con los Notebooks: en esta carpeta podremos 
 
 - Carpeta con los datos 
 
