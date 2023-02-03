@@ -38,8 +38,8 @@ Para tener un buen seguimiento de nuestro proyecto, es recomendable que os creei
 
 - Readme: un buen readme es clave para atraer la atención de los posibles lectores de nuestro proyecto. En este aparto haremos un pequeño resumen de nuestro proyecto. [Aquí](https://github.com/Adalab/ejemplo-proyecto-personal-data/blob/main/documentos_adicionales/como_hacer_readme.md) tenéis un ejemplo de readme. 
 
-- Carpeta con los Notebooks: en esta carpeta podremos 
+- Carpeta con los Notebooks: en esta carpeta podremos incluir todos nuestros libros de trabajo, donde hemos ido desarrollando nuestro código.
 
-- Carpeta con los datos 
+- Carpeta con los datos: donde vamos almacenando toda la información que hemos usado para desarrollar nuestro proyecto. 
 
-- Carpeta con las imagenes
+- Carpeta con las imagenes: donde guardaremos todas las imagenes que hemos usado/creado en nuestro proyecto. 
