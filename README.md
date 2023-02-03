@@ -12,7 +12,7 @@ Antes de ponernos manos a la obra es recomendable seguir los siguientes pasos:
 
     Basado en el problema que queremos solucionar, tenéis que saber que necesitamos para responder a nuestras preguntas. Por ejemplo, si nuestro problema es "¿cuál es el consumo energético por comunidad autónoma en función del tipo de energia que se produce?", nuestro conjunto de datos ideal debe incluir las comunidades autónomas, el tipo de energía que se usa para consumo en los hogares y la energía consumida. 
 
-    Este tal vez sea uno de los pasos que más nos puede bloquear. A veces la búsqueda de datos no es fácil, ya que los datos que necesitamos pueden venir de distintas fuentes, o no estar completos, por lo que necesitaremos hacer búsquedas muy profundas. Que esto nos os desanime, es algo complicado en ciertas ocasiones. [Aquí]() os dejamos algunas fuentes de datos que pueden ser interesantes y que podrían ayudarnos en esta fase. 
+    Este tal vez sea uno de los pasos que más nos puede bloquear. A veces la búsqueda de datos no es fácil, ya que los datos que necesitamos pueden venir de distintas fuentes, o no estar completos, por lo que necesitaremos hacer búsquedas muy profundas. Que esto nos os desanime, es algo complicado en ciertas ocasiones. [Aquí](https://github.com/Adalab/ejemplo-proyecto-personal-data/blob/main/documentos_adicionales/recursos.md) os dejamos algunas fuentes de datos que pueden ser interesantes y que podrían ayudarnos en esta fase. 
 
 3. Conozca sus datos
 
@@ -31,5 +31,4 @@ Antes de ponernos manos a la obra es recomendable seguir los siguientes pasos:
     Una vez que tengamos nuestros primeros resultados es una buena practica "someter nuestros resultados a una prueba". Podemos pedirle a otras personas que miren nuestros trabajo y que nos den *feedback*, otras ideas, etc. Recuerdad, *“garbage in, garbage out”* (basura dentro, basura fuera). Un análisis mal planteado puede conllevar malos resultados.
 
 7. Comparte tu trabajo
-    
     
